@@ -63,7 +63,7 @@ public class Box{
      * toString method that prints the shape details
      */
     public String toString(){
-        return "Board Name: "+this.name+"\nNumber Of Shapes: "+this.getNumOfShapes()+"\nRectangle info: \n"+this.callRect();
+        return "Box Name: "+this.name+"\nNumber Of Shapes: "+this.getNumOfShapes()+"\nRectangle info: \n"+this.callRect();
     }
 
 }

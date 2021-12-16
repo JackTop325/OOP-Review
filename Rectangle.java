@@ -29,6 +29,17 @@ class Rectangle extends Shape{
     }
     /**
      * Rectangle constructor
+     * @param name
+     * @param length
+     * @param width
+     */
+    public Rectangle(String name,double length,double width){
+        super(name);
+        this.length = length;
+        this.width = width;
+    }
+    /**
+     * Rectangle constructor
      * @param rect
      */
     public Rectangle(Rectangle rect){

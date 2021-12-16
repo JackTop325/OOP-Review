@@ -10,9 +10,14 @@ class Main {
    * @param args
    */
   public static void main(String[] args) {
+    //create objects
     Rectangle r = new Rectangle(3,5);
     Rectangle r2 = new Rectangle(r);
-    Box b = new Box("Box", 5, r);
+    Square s = new Square(5);
+    Box b = new Box("Box", r);
+
+    //call object method
     System.out.println(b.toString());
+    System.out.println(s.toString());
   }
 }
