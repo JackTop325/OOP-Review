@@ -16,6 +16,9 @@ We will also explore simple concepts such as is-a and has-a relationships as wel
 Example:
 
 ![](images/Example1.png)
+
+Rectangle extends Shape
+
 ![](images/Example2.png)
 
 ---
