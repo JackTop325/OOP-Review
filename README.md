@@ -11,7 +11,12 @@ We will also explore simple concepts such as is-a and has-a relationships as wel
 
 ---
 ## UML Diagrams
-![](images/Steps.jpg)
+![](images/Steps.png)
+
+Example:
+
+![](images/Example1.png)
+
 ---
 ## Acknowledgements
 
