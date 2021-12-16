@@ -24,7 +24,7 @@ Rectangle extends Shape
 ---
 ## Acknowledgements
 
-This review was made to reflect the work learned in Dr Norman Bethune CI.
+This review was made to reflect the OOP work learned in Dr Norman Bethune CI.
 
 ---
 ## Resource
